@@ -124,6 +124,7 @@ def action(a, b):
                 a_action = 'cheat'
         # Random: 50-50
         elif players[a].strategy == 'random':
+            rand = randint(1, 100)
             if rand <= 50:
                 a_action = 'co-op'
             else:
