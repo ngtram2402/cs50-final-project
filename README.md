@@ -25,6 +25,7 @@ I have modified the game a bit, so that if a player CHEATs by mistake and its op
 - Grudger: won't hold a grudge, still CO-OPs next turn
 - Copykitten, Skeptic: won't consider it CHEATing
 - Cheater, Naive, Random: No effect
+
 This modification tends to help Copycats, Grudgers and Skeptics survive a bit longer.
 
 
